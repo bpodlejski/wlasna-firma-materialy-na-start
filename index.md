@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+# wlasna-firma-materialy-na-start
 
-You can use the [editor on GitHub](https://github.com/bpodlejski/wlasna-firma-materialy-na-start/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Nie posiadam własnej firmy. Linki i materiały tu zebrane są przeze mnie w celu przyszykowania się do otwarcia firmy. Są subiektywnym zbiorem "zdroworozsądkowych" materiałów.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Własna firma – co warto wiedzieć zanim zaczniesz – moje błędy i 23 wskazówki](https://jakoszczedzacpieniadze.pl/wlasna-firma-co-warto-wiedziec-zanim-zaczniesz)
 
-### Markdown
+## Otwarcie firmy
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Ebooki od ifirma:
+[https://www.ifirma.pl/ebook](https://www.ifirma.pl/ebook)
 
-```markdown
-Syntax highlighted code block
+### W szczególności
+Rejejestraja firmy krok po kroku:
+- [https://www.ifirma.pl/wp-content/themes/sit/ebooks/RejestracjaFirmyKrokPoKroku.pdf](https://www.ifirma.pl/wp-content/themes/sit/ebooks/RejestracjaFirmyKrokPoKroku.pdf)
 
-# Header 1
-## Header 2
-### Header 3
+## Finanse w firmie i osobiste
 
-- Bulleted
-- List
+- [Finanse osobiste i własna firma – jak je pogodzić? 7 dobrych podpowiedzi dla przedsiębiorców](https://jakoszczedzacpieniadze.pl/jak-pogodzic-finanse-osobiste-i-wlasna-firme)
+- [Więcej niż jedno konto bankowe w firmie (video)](https://youtu.be/XrtofwXw1GE?t=72)
+- [8 KONT W MBANK (czyli jak zarządzam finansami w 2018 roku)](https://www.youtube.com/watch?v=4NxTWkTpw-E)
+- [Finansowy ninja](https://finansowyninja.pl)
 
-1. Numbered
-2. List
+### inne źródła o finansach
 
-**Bold** and _Italic_ and `Code` text
+- [https://subiektywnieofinansach.pl](https://subiektywnieofinansach.pl)
+- [książka REWORK](https://lubimyczytac.pl/ksiazka/195804/rework)
+- [Jesteś marką. Jak odnieść sukces i pozostać sobą.](https://lubimyczytac.pl/ksiazka/257604/jestes-marka-jak-odniesc-sukces-i-pozostac-soba)
 
-[Link](url) and ![Image](src)
-```
+## Podcasty
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- [https://malawielkafirma.pl](https://malawielkafirma.pl)
+- [Więcej niż oszczędzanie pieniędzy](https://jakoszczedzacpieniadze.pl/podcast)
 
-### Jekyll Themes
+## Podatki
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bpodlejski/wlasna-firma-materialy-na-start/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Optymalizacja podatkowa PIT – sprawdź na co idą pieniądze i zaplanuj jak płacić mniej podatków](https://jakoszczedzacpieniadze.pl/optymalizacja-podatkowa-etat-jak-placic-mniej-podatkow)
 
-### Support or Contact
+## Narzędzia
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Księgowość online
+
+- [https://wfirma.pl](https://wfirma.pl)
+- [https://www.ifirma.pl](https://www.ifirma.pl)
+
+### Inne
+
+- [Canva - tworzenie grafik](https://www.canva.com) 
+- [Calendly - umawianie spotkań](https://calendly.com)
+- [Nozbe - zarządzanie zadaniami (lista to do)](https://nozbe.com/?a=bpodlejski)
+- [LanguageTool - plugin do przeglądarki - poprawia błędy w formularzach nie tylko ortograficzne](https://languagetool.org)
