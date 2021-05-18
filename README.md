@@ -11,28 +11,25 @@ Ebooki od ifirma:
 
 ### W szczególności
 Rejejestraja firmy krok po kroku:
-[https://www.ifirma.pl/wp-content/themes/sit/ebooks/RejestracjaFirmyKrokPoKroku.pdf](https://www.ifirma.pl/wp-content/themes/sit/ebooks/RejestracjaFirmyKrokPoKroku.pdf)
+- [https://www.ifirma.pl/wp-content/themes/sit/ebooks/RejestracjaFirmyKrokPoKroku.pdf](https://www.ifirma.pl/wp-content/themes/sit/ebooks/RejestracjaFirmyKrokPoKroku.pdf)
 
 ## Finanse w firmie i osobiste
 
-[Finanse osobiste i własna firma – jak je pogodzić? 7 dobrych podpowiedzi dla przedsiębiorców](https://jakoszczedzacpieniadze.pl/jak-pogodzic-finanse-osobiste-i-wlasna-firme)
-
-[Więcej niż jedno konto bankowe w firmie (video)](https://youtu.be/XrtofwXw1GE?t=72)
-
-[8 KONT W MBANK (czyli jak zarządzam finansami w 2018 roku)](https://www.youtube.com/watch?v=4NxTWkTpw-E)
-
-[Finansowy ninja](https://finansowyninja.pl)
+- [Finanse osobiste i własna firma – jak je pogodzić? 7 dobrych podpowiedzi dla przedsiębiorców](https://jakoszczedzacpieniadze.pl/jak-pogodzic-finanse-osobiste-i-wlasna-firme)
+- [Więcej niż jedno konto bankowe w firmie (video)](https://youtu.be/XrtofwXw1GE?t=72)
+- [8 KONT W MBANK (czyli jak zarządzam finansami w 2018 roku)](https://www.youtube.com/watch?v=4NxTWkTpw-E)
+- [Finansowy ninja](https://finansowyninja.pl)
 
 ### inne źródła o finansach
 
-[https://subiektywnieofinansach.pl](https://subiektywnieofinansach.pl)
+- [https://subiektywnieofinansach.pl](https://subiektywnieofinansach.pl)
+- [książka REWORK](https://lubimyczytac.pl/ksiazka/195804/rework)
+- [Jesteś marką. Jak odnieść sukces i pozostać sobą.](https://lubimyczytac.pl/ksiazka/257604/jestes-marka-jak-odniesc-sukces-i-pozostac-soba)
 
-[książka REWORK](https://lubimyczytac.pl/ksiazka/195804/rework)
-[Jesteś marką. Jak odnieść sukces i pozostać sobą.](https://lubimyczytac.pl/ksiazka/257604/jestes-marka-jak-odniesc-sukces-i-pozostac-soba)
 ## Podcasty
 
-[https://malawielkafirma.pl](https://malawielkafirma.pl)
-[Więcej niż oszczędzanie pieniędzy](https://jakoszczedzacpieniadze.pl/podcast)
+- [https://malawielkafirma.pl](https://malawielkafirma.pl)
+- [Więcej niż oszczędzanie pieniędzy](https://jakoszczedzacpieniadze.pl/podcast)
 
 ## Podatki
 
@@ -50,4 +47,4 @@ Rejejestraja firmy krok po kroku:
 - [Canva - tworzenie grafik](https://www.canva.com) 
 - [Calendly - umawianie spotkań](https://calendly.com)
 - [Nozbe - zarządzanie zadaniami (lista to do)](https://nozbe.com/?a=bpodlejski)
-- [LanguageTool - plugin do przeglądarki - poprawia błędy nie tylko ortograficzne](https://languagetool.org)
+- [LanguageTool - plugin do przeglądarki - poprawia błędy w formularzach nie tylko ortograficzne](https://languagetool.org)
