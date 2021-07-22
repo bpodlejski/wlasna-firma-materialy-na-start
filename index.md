@@ -42,6 +42,12 @@ Rejejestraja firmy krok po kroku:
 - [https://wfirma.pl](https://wfirma.pl)
 - [https://www.ifirma.pl](https://www.ifirma.pl)
 
+### Darmowe wystawianie faktur
+
+- [https://chmurafaktur.pl/](https://chmurafaktur.pl/)
+- [https://www.firmino.pl/](https://www.firmino.pl/) - darmowa wersja
+- [https://www.podatki.gov.pl/jednolity-plik-kontrolny/jpk-vat-z-deklaracja/bezplatne-narzedzia/](e-mikrofirma) - darmowy program od Ministerstwa Finansów, UWAGA - jak przy każdym programie należy sprawdzać czy wypisana faktura jest zgodna z ustawą
+
 ### Inne
 
 - [Canva - tworzenie grafik](https://www.canva.com) 
